@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "rootDir": "src",
+        "lib": [
+            "ES2021.String"
+        ]
+    }
+}
